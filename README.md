@@ -1,7 +1,7 @@
 # Fitness programme generator
 Streamlit app powered by an open-source LLM (Llama 3.2:1b) to generate fitness programmes.
 
-Check out the app [here]().
+Check out the app [here](https://georgeboorman-fitness-programme-generator-main-j899qo.streamlit.app/).
 
 # Steps to recreate
 1. Clone the repo
