@@ -10,11 +10,12 @@ git clone https://github.com/georgeboorman/fitness-programme-generator.git
 ```
 
 2. Install Ollama
-Mac:
+
+On Mac:
 ```
 brew install ollama
 ```
-Windows: Visit [here](https://ollama.com/download)
+On Windows: Visit [here](https://ollama.com/download)
 
 3. Pull the model (e.g., Llama 3.2:1b)
 See [here]() for all available models
